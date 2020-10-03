@@ -4,3 +4,6 @@
 [submodule "d01"]
 	path = d01
 	url = https://github.com/frolushka/d01.git
+[submodule "d02"]
+	path = d02
+	url = https://github.com/frolushka/d02.git
