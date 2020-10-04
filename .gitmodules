@@ -7,3 +7,6 @@
 [submodule "d02"]
 	path = d02
 	url = https://github.com/frolushka/d02.git
+[submodule "d03"]
+	path = d03
+	url = https://github.com/frolushka/d03.git
