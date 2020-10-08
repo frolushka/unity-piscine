@@ -19,6 +19,8 @@ Subject: https://cdn.intra.42.fr/pdf/pdf/13746/en.subject.pdf
 
 Try it: https://frolushka.github.io/d01/
 
+TODO: now only first scene is playable
+
 ## Day 02
 <img align="left" alt="d02screen1" width="150px" src="https://sun9-43.userapi.com/YiSKIzw3A4AMVVOIvsfCv1-5TUjXeiGGazsJog/b9wuVNdRZ4s.jpg" />
 <br /><br /><br /><br /><br />
@@ -34,6 +36,8 @@ Try it: https://frolushka.github.io/d02/
 Subject: https://cdn.intra.42.fr/pdf/pdf/13775/en.subject.pdf
 
 Try it: https://frolushka.github.io/d03/
+
+TODO: fix WebGL build canvas resolution
 
 ## Day 04
 
