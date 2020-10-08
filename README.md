@@ -4,11 +4,7 @@ Each project was developed and tested with Unity 2019.4.4f only. If you have dif
 Piscine assets authors was big bad code lovers. Therefore, code and architecture of different project parts are completely different.
 
 ### Day 00
-<img align="left" alt="d00screen1" width="150px" src="https://sun9-76.userapi.com/6PQ6a9YS3cx9qTKhrS3FlAQksaA31hITVD3yTA/CJwBnrtM_gE.jpg" />
-<img align="left" alt="d00screen2" width="150px" src="https://sun9-53.userapi.com/FWdcb9bLLjMZVBVgUUH3kGKOJsToyYYJ4NwEpQ/QARVLgMHkNw.jpg" />
 <img align="left" alt="d00screen3" width="150px" src="https://sun9-22.userapi.com/__o2J8Q97mIB1G0PpmUsaLZPs9ceUS1GUj7azQ/0PaAJvE4fKU.jpg" />
-<img align="left" alt="d00screen4" width="150px" src="https://sun9-65.userapi.com/wxpLJ0AIErjJc32LAt5hl0DLYIMyWkqZ3YPk_Q/leAbqhUYGyo.jpg" />
-<img align="left" alt="d00screen5" width="150px" src="https://sun9-61.userapi.com/02plHaCxFC6x0L6zAREIlCdLdSdeaZJC3yvgxQ/2ZopWY0TKKs.jpg" />
 <br /><br /><br /><br /><br />
 
 Subject: https://cdn.intra.42.fr/pdf/pdf/13744/en.subject.pdf
